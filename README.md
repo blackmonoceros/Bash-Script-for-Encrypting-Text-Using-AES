@@ -19,4 +19,4 @@ In Bash, you can use the `openssl` command-line tool to perform AES encryption a
    - Password: `mypassword`
    - Command: The script decrypts `secret.enc` back into `secret_decrypted.txt`.
 
-This Bash script is a simple and effective way to encrypt and decrypt files using AES. It can be extended to handle additional features, such as error handling or support for different encryption algorithms.
+This  Bash script is a simple and effective way to encrypt and decrypt files using AES. It can be extended to handle additional features, such as error handling or support for different encryption algorithms.
